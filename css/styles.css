@@ -1,0 +1,13 @@
+/* Puedes dejar este archivo para ajustes extra. */
+body {
+  background-color: #f9fafb;
+  margin: 0;
+  padding-bottom: 60px; /* espacio para que el contenido no tape el footer */
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}

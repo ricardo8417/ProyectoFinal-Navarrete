@@ -1,0 +1,204 @@
+{
+  "consultas": [
+    {
+      "id": 1,
+      "nombre": "Ana María",
+      "apellidoPaterno": "López",
+      "apellidoMaterno": "Pérez",
+      "fecha": "2025-10-01",
+      "telefono": "2291001001",
+      "edad": 29,
+      "sintomas": "Dolor de cabeza y fiebre leve"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos",
+      "apellidoPaterno": "Ramírez",
+      "apellidoMaterno": "Hernández",
+      "fecha": "2025-10-02",
+      "telefono": "2292002002",
+      "edad": 35,
+      "sintomas": "Tos seca y congestión nasal"
+    },
+    {
+      "id": 3,
+      "nombre": "Laura",
+      "apellidoPaterno": "García",
+      "apellidoMaterno": "Santos",
+      "fecha": "2025-10-03",
+      "telefono": "2293003003",
+      "edad": 40,
+      "sintomas": "Dolor abdominal y náuseas"
+    },
+    {
+      "id": 4,
+      "nombre": "Jorge",
+      "apellidoPaterno": "Martínez",
+      "apellidoMaterno": "Luna",
+      "fecha": "2025-10-04",
+      "telefono": "2294004004",
+      "edad": 50,
+      "sintomas": "Fiebre alta y malestar general"
+    },
+    {
+      "id": 5,
+      "nombre": "María Fernanda",
+      "apellidoPaterno": "Sánchez",
+      "apellidoMaterno": "Ruiz",
+      "fecha": "2025-10-05",
+      "telefono": "2295005005",
+      "edad": 26,
+      "sintomas": "Dolor de garganta"
+    },
+    {
+      "id": 6,
+      "nombre": "José Luis",
+      "apellidoPaterno": "Mendoza",
+      "apellidoMaterno": "Torres",
+      "fecha": "2025-10-06",
+      "telefono": "2296006006",
+      "edad": 45,
+      "sintomas": "Mareos y fatiga"
+    },
+    {
+      "id": 7,
+      "nombre": "Andrea",
+      "apellidoPaterno": "Domínguez",
+      "apellidoMaterno": "Morales",
+      "fecha": "2025-10-07",
+      "telefono": "2297007007",
+      "edad": 33,
+      "sintomas": "Dolor muscular y fiebre"
+    },
+    {
+      "id": 8,
+      "nombre": "Fernando",
+      "apellidoPaterno": "Jiménez",
+      "apellidoMaterno": "Vega",
+      "fecha": "2025-10-08",
+      "telefono": "2298008008",
+      "edad": 41,
+      "sintomas": "Dolor de espalda"
+    },
+    {
+      "id": 9,
+      "nombre": "Lucía",
+      "apellidoPaterno": "Castro",
+      "apellidoMaterno": "Paredes",
+      "fecha": "2025-10-09",
+      "telefono": "2299009009",
+      "edad": 28,
+      "sintomas": "Tos persistente"
+    },
+    {
+      "id": 10,
+      "nombre": "Ricardo",
+      "apellidoPaterno": "Flores",
+      "apellidoMaterno": "Mora",
+      "fecha": "2025-10-10",
+      "telefono": "2290101010",
+      "edad": 38,
+      "sintomas": "Dolor en el pecho"
+    },
+    {
+      "id": 11,
+      "nombre": "Beatriz",
+      "apellidoPaterno": "Navarro",
+      "apellidoMaterno": "Campos",
+      "fecha": "2025-10-11",
+      "telefono": "2291111111",
+      "edad": 52,
+      "sintomas": "Dolor articular"
+    },
+    {
+      "id": 12,
+      "nombre": "Roberto",
+      "apellidoPaterno": "Cruz",
+      "apellidoMaterno": "López",
+      "fecha": "2025-10-12",
+      "telefono": "2291212121",
+      "edad": 47,
+      "sintomas": "Fiebre y tos"
+    },
+    {
+      "id": 13,
+      "nombre": "Diana",
+      "apellidoPaterno": "Moreno",
+      "apellidoMaterno": "Gómez",
+      "fecha": "2025-10-13",
+      "telefono": "2291313131",
+      "edad": 36,
+      "sintomas": "Dolor de garganta"
+    },
+    {
+      "id": 14,
+      "nombre": "Miguel Ángel",
+      "apellidoPaterno": "Reyes",
+      "apellidoMaterno": "Fernández",
+      "fecha": "2025-10-14",
+      "telefono": "2291414141",
+      "edad": 31,
+      "sintomas": "Dolor de cabeza y mareos"
+    },
+    {
+      "id": 15,
+      "nombre": "Paola",
+      "apellidoPaterno": "Vargas",
+      "apellidoMaterno": "Aguilar",
+      "fecha": "2025-10-15",
+      "telefono": "2291515151",
+      "edad": 27,
+      "sintomas": "Tos seca y dolor muscular"
+    },
+    {
+      "id": 16,
+      "nombre": "Alejandro",
+      "apellidoPaterno": "Rivera",
+      "apellidoMaterno": "Delgado",
+      "fecha": "2025-10-16",
+      "telefono": "2291616161",
+      "edad": 39,
+      "sintomas": "Fatiga y fiebre"
+    },
+    {
+      "id": 17,
+      "nombre": "Gabriela",
+      "apellidoPaterno": "Núñez",
+      "apellidoMaterno": "Salas",
+      "fecha": "2025-10-17",
+      "telefono": "2291717171",
+      "edad": 32,
+      "sintomas": "Dolor abdominal"
+    },
+    {
+      "id": 18,
+      "nombre": "Raúl",
+      "apellidoPaterno": "Ortega",
+      "apellidoMaterno": "Cervantes",
+      "fecha": "2025-10-18",
+      "telefono": "2291818181",
+      "edad": 43,
+      "sintomas": "Dolor muscular y fiebre"
+    },
+    {
+      "id": 19,
+      "nombre": "Valeria",
+      "apellidoPaterno": "Jiménez",
+      "apellidoMaterno": "Rosales",
+      "fecha": "2025-10-19",
+      "telefono": "2291919191",
+      "edad": 25,
+      "sintomas": "Dolor de cabeza y náuseas"
+    },
+    {
+      "id": 20,
+      "nombre": "Enrique",
+      "apellidoPaterno": "Guzmán",
+      "apellidoMaterno": "Pineda",
+      "fecha": "2025-10-20",
+      "telefono": "2292020202",
+      "edad": 54,
+      "sintomas": "Dolor de garganta y fiebre"
+    }
+  ]
+}
